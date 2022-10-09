@@ -20,13 +20,13 @@ PIL и др.) и нативно на Python + |с использованием N
 ### Результаты работы 
 ##### Примеры работы алгоритма
 Оригинальное видео
-<br><img src="https://github.com/V-Gorash/CV_Lab1/blob/master/readme_images/original.png"><br><br>
+<br><img src="https://github.com/V-Gorash/CV_Lab1/blob/master/readme_images/original.png" height="270" width="480"><br><br>
 
 Фон
-<br><img src="https://github.com/V-Gorash/CV_Lab1/blob/master/readme_images/map.jpg"><br><br>
+<br><img src="https://github.com/V-Gorash/CV_Lab1/blob/master/readme_images/map.jpg" height="270" width="480"><br><br>
 
 Результат обработки
-<br><img src="https://github.com/V-Gorash/CV_Lab1/blob/master/readme_images/modified.png"><br><br>
+<br><img src="https://github.com/V-Gorash/CV_Lab1/blob/master/readme_images/modified.png" height="270" width="480"><br><br>
 
 ##### Время работы
 * OpenCV - 19.97 с
